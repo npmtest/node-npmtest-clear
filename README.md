@@ -1,6 +1,6 @@
 # npmtest-clear
 
-#### test coverage for  [clear (v0.0.1)](https://github.com/bahamas10/node-clear#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-clear.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-clear) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-clear.svg)](https://travis-ci.org/npmtest/node-npmtest-clear)
+#### basic test coverage for  [clear (v0.0.1)](https://github.com/bahamas10/node-clear#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-clear.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-clear) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-clear.svg)](https://travis-ci.org/npmtest/node-npmtest-clear)
 
 #### Clear the terminal screen if possible
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-clear/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-clear/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-clear/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-clear/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-clear/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-clear/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-clear/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-clear/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-clear/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-clear/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-clear/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-clear/build/coverage.html/index.html)
 
